@@ -1,8 +1,8 @@
 # lyrik-webapp
 
-![Lyrik](https://raw.githubusercontent.com/altBeck/temp-img/main/music-app.png)
+A ReactJS music web application made with Tailwindcss, Redux toolkit, shazam, RadpidAPI and geolocation API.
 
-A ReactJS music web application made with Tailwindcss, Redux toolkit, shazam, RadpidAPI and geolocation API. 
+![Lyrik](https://raw.githubusercontent.com/altBeck/temp-img/main/music-app.png) 
 
 ### Lessons Learnt
 - Advanced React Best Practices (Folder File Structure, Hooks)
