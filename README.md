@@ -1,4 +1,3 @@
-#lyrik
 # lyrik-webapp
 
 A ReactJS music web application made with Tailwindcss, Redux toolkit, shazam, RadpidAPI and geolocation API. 
