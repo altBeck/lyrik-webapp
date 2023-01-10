@@ -4,7 +4,7 @@ A ReactJS music web application made with Tailwindcss, Redux toolkit, shazam, Ra
 
 ![Lyrik](https://raw.githubusercontent.com/altBeck/temp-img/main/music-app.png) 
 
-### Lessons Learnt
+### Concepts Learnt
 - Advanced React Best Practices (Folder File Structure, Hooks)
 - Fetching data from unlimited sources using RapidAPI.
 - Using Redux Toolkit for faster development.
